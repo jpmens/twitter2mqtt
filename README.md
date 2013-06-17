@@ -2,6 +2,8 @@
 
 A very initial stab at a Twitter to MQTT gateway.
 
+1-shot means it will run, collect current timeline, and stop.
+
 ## Dependencies
 
 * Twitter dev key
